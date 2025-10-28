@@ -21,6 +21,7 @@ figure {
   display: grid;
   grid-template-columns: 4fr 1fr;
   font-size: 0.8em;
+	background-color: rgb(250,250,250);
 }
 
 img {
@@ -57,7 +58,6 @@ figcaption {
     font-style: italic;
     padding: 2em;
     grid-column: 2;
-    background-color: rgb(250,250,250);
 }
 
 h3 {
