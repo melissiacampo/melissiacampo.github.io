@@ -16,8 +16,8 @@ div.container {
 	position: relative;
 	min-height: 100vh;
 	background-color: rgb(250,250,250);
-max-width: 80em;
-margin:auto;
+	max-width: 80em;
+	margin:auto;
 }
 
 body {  
@@ -34,8 +34,8 @@ img {
 }
 
 img.photo {
-width:40em;
-margin:auto;
+	width:40em;
+	margin:auto;
 }
 
 header {
@@ -47,11 +47,6 @@ header {
 
 h1 {
 	width: 15em;
-	}
-
-
-h2, h3, h4 {
-		font-weight: bold;
 	}
 
 h2 {
@@ -181,7 +176,8 @@ article{
 }
 
 address.homeinfo{
-color: rgb(250,250,250);	
+	color: rgb(250,250,250);
+	text-decoration: none;
 }
 
 @media screen and (min-width: 60em) {
